@@ -2,6 +2,8 @@
 ## Overview
 ### -This jupyter notebook focus on understanding the relationships between different variables using correlation and linear regression techniques. 
 ### -These projects demonstrate the application of statistical methods to make predictions and interpret data effectively.
+### For more details:
+- [Jupyter Notebook](https://github.com/meigeeong/Gym_Exercise_Analysis/blob/main/Gym.ipynb)
 
 # Projects
 ## Title: Gym_Exercise_Anslysis
