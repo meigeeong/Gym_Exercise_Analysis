@@ -16,6 +16,7 @@
 ### -Calculating Pearson correlation coefficient (𝑟) to measure the correlation between variables.
 ### -Visualizing correlation matrices using heatmaps.
 ### -A heatmap was used to visualize the strength and direction of correlations.
+<img src="https://github.com/meigeeong/My-Portfolio/blob/main/img/MeiGeeimg.PNG" width="705" height="287">
 
 ## 2. Linear Regression
 ## Objective: This project demonstrates the use of simple linear regression to predict a dependent variable using a single independent variable.
