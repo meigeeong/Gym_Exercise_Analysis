@@ -21,6 +21,7 @@
 ## 2. Linear Regression
 ## Objective: This project demonstrates the use of simple linear regression to predict a dependent variable using a single independent variable.
 ## Tools Used: Python, Scikit-learn, Matplotlib.
+<img src="https://github.com/meigeeong/Gym_Exercise_Analysis/blob/main/Simple%20linear%20regression%20Gym.png" width="800" height="500">
 
 ## Key Techniques:
 
