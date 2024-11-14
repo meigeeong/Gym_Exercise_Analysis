@@ -6,7 +6,7 @@
 - [Jupyter Notebook](https://github.com/meigeeong/Gym_Exercise_Analysis/blob/main/Gym.ipynb)
 
 # Projects
-## Title: Gym_Exercise_Anslysis
+## Title: Gym_Exercise_Analysis
 ### Source of data: Kaggle
 ## 1. Correlation Analysis
 ## Objective: This project explores the relationship between different variables using correlation coefficients.
